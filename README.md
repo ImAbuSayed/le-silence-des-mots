@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Regarde-moi, le silence a des mots que la nuit nous dessine
+> We're lost in the lights, dans cette ville où les âmes s'animent
+> Viens plus près de moi, laisse la basse guider la machine
+> Ton parfum de minuit, c'est la seule vibe qui me fascine
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
