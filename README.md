@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-silence-des-mots/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Le Silence Des Mots](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-silence-des-mots/) |
+| **Get License** | [Official Music Licensing for Le Silence Des Mots](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-silence-des-mots/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3ff1cfd6b319f7834e31508e8d59f387b82b12655b0f688365c29bd88f448084` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
